@@ -5,6 +5,6 @@
 
   # deng-inf's Website
 
-  Visit **[deng-inf.github.io](https://deng-inf.github.io)** 🚀
+  Visit **[ifis-lab.github.io](https://ifis-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
