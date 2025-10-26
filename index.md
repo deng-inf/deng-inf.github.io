@@ -13,7 +13,8 @@
 <ul> 
   <li><strong>Uncertainty Theory &amp; Information Fusion</strong>: Developing novel frameworks (Dempster-Shafer Theory, D-Numbers, Random Permutation Sets) and entropy measures (Belief Entropy, Deng Entropy) to model and fuse conflicting, uncertain, and incomplete information.</li> 
   <li><strong>Quantum Information Processing</strong>: Exploring novel computational paradigms, including quantum circuits and quantum mass functions, to handle belief functions, model uncertainty, and accelerate information fusion.</li> 
-  <li><strong>Fuzzy Systems &amp; Time Series Analysis</strong>: Modeling complex dynamics and forecasting under vagueness, including the development of new models like Differential Convolutional Fuzzy Time Series.</li> 
+  <li><strong>Fuzzy Systems</strong>: Developing fuzzy models for complex decision-making, pattern recognition, and control systems.</li>
+  <li><strong>Time Series Analysis</strong>: Developing new models for complex forecasting and pattern recognition.</li>
   <li><strong>Complex Network Analysis</strong>: Identifying influential nodes, assessing network vulnerability, and modeling information flow using evidential and entropy-based approaches.</li> 
   <li><strong>Intelligent Decision &amp; Risk Analysis</strong>: Applying our theoretical models to high-stakes applications, including multi-criteria decision making (MCDM), fault diagnosis, clustering (Evidential C-Means), and risk assessment (FMEA).</li> 
 </ul>
