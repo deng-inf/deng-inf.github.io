@@ -3,6 +3,8 @@ name: Yong Deng
 image: images/yong-deng.jpg
 role: principal-investigator
 affiliation: University of Electronic Science and Technology of China
+description: Principal Investigator
+aliases:
   - Y. Deng
   - Y Deng
 links:
