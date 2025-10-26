@@ -1,7 +1,7 @@
 ---
 name: Tianxiang Zhan
 image: images/tianxiang-zhan.png
-role: undergrad
+role: master
 affiliation: University of Electronic Science and Technology of China
 description: Master Student (2023)
 aliases:
