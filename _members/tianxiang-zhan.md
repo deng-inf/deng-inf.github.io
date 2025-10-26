@@ -2,7 +2,7 @@
 name: Tianxiang Zhan
 image: images/tianxiang-zhan.png
 description: Master Student
-role: undergraduate student
+role: undergraduate-student
 links:
   email: zhantianxianguestc@hotmail.com
     home-page: https://ztxtech.github.io/
