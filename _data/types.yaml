@@ -26,6 +26,18 @@ mascot:
   icon: fa-solid fa-dog
   description: Mascot
 
+gs-phd:
+  icon: fa-solid fa-user-graduate
+  description: Graduated PhD Student
+
+gs-ms:
+  icon: fa-solid fa-graduation-cap
+  description: Graduated Master Student
+
+gs-undergrad:
+  icon: fa-solid fa-user-graduate
+  description: Graduated Undergraduate Student
+
 # general
 
 link:

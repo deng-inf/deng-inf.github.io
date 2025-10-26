@@ -18,4 +18,12 @@ Below are the members of the IFIS group.
 {% include list.html data="members" component="portrait" filter="role == 'ms'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad'" %}
 
+{% include section.html background="images/background.jpg" dark=true %}
+
+IFIS group outstanding graduates are as follows:
+
+{% include list.html data="members" component="portrait" filter="role == 'gs-phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'gs-ms'" %}
+{% include list.html data="members" component="portrait" filter="role == 'gs-undergrad'" %}
+
 {% include section.html %}
