@@ -1,6 +1,6 @@
 ---
 name: Qianli Zhou
-image: images/qianli-zhou.jpg
+image: images/people/qianli-zhou.jpg
 role: gs-phd
 aliases:
   - Q. Zhou

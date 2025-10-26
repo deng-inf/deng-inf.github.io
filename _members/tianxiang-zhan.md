@@ -1,6 +1,6 @@
 ---
 name: Tianxiang Zhan
-image: images/tianxiang-zhan.png
+image: images/people/tianxiang-zhan.png
 role: ms
 description: Master Student (2023-Now)
 aliases:

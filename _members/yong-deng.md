@@ -1,6 +1,6 @@
 ---
 name: Yong Deng
-image: images/yong-deng.jpg
+image: images/people/yong-deng.jpg
 role: principal-investigator
 description: Principal Investigator
 aliases:
