@@ -9,7 +9,7 @@ proofer: false
 # site social media and other links
 links:
   email: dengentropy@uestc.edu.cn
-  github: deng-inf
+  github: ifis-lab
 
 ### jekyll settings
 
