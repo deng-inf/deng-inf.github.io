@@ -1,6 +1,6 @@
 ---
-name: Qianli_Zhou
-image: images/yong-deng.jpg
+name: Qianli Zhou
+image: images/qianli-zhou.jpg
 role: gs-phd
 aliases:
   - Q. Zhou
