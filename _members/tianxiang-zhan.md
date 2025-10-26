@@ -1,7 +1,7 @@
 ---
 name: Tianxiang Zhan
 image: images/tianxiang-zhan.png
-role: master
+role: ms
 aliases:
   - T. Zhan
   - T Zhan
