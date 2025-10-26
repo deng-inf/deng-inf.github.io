@@ -28,15 +28,15 @@ mascot:
 
 gs-phd:
   icon: fa-solid fa-user-graduate
-  description: Graduated PhD Student
+  description: PhD Graduate
 
 gs-ms:
   icon: fa-solid fa-graduation-cap
-  description: Graduated Master Student
+  description: Master Graduate
 
 gs-undergrad:
   icon: fa-solid fa-user-graduate
-  description: Graduated Undergraduate Student
+  description: Graduate
 
 # general
 
