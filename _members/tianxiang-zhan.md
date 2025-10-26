@@ -2,13 +2,12 @@
 name: Tianxiang Zhan
 image: images/tianxiang-zhan.png
 role: master
-affiliation: University of Electronic Science and Technology of China
-description: Master Student (2023)
 aliases:
   - T. Zhan
   - T Zhan
 links:
   home-page: https://ztxtech.github.io/
+  github: ztxtech
   email: zhantianxianguestc@hotmail.com
 ---
 
