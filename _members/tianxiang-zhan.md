@@ -5,8 +5,8 @@ role: undergrad
 affiliation: University of Electronic Science and Technology of China
 description: Master Student (2023)
 aliases:
-  - Y. Deng
-  - Y Deng
+  - T. Zhan
+  - T Zhan
 links:
   home-page: https://ztxtech.github.io/
   email: zhantianxianguestc@hotmail.com
