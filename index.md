@@ -1,9 +1,14 @@
 ---
 ---
 
-# ifis-lab's Website
+  <p>
+    At <strong>IFIS</strong>, we aim to <strong>XXX</strong>...
+  </p>
 
-An engaging 1-3 sentence description of your lab.
+  <h4>Our research spans:</h4>
+  <ul>
+    <li><strong>XXX</strong>: XXX</li>
+  </ul>
 
 {% include section.html %}
 
@@ -11,7 +16,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We actively publish at the top venues of computer science, including TPAMI, TKDE, TSMC, TFS, etc.
 
 {%
   include button.html
@@ -26,20 +31,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.png"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We publish in a variety of areas that cross-feed each other, including:
+evidence theory, information theory, non-linear dynamic, quantum computing, information fusion, time series analysis, and complex system modeling.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +55,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.png"
   link="projects"
-  title="Our Projects"
+  title="Our Research"
   flip=true
   style="bare"
   text=text
@@ -59,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a fortunate to be in a world-class team composed of individuals from diverse backgrounds, ethnicities with distinct skillsets.
 
 {%
   include button.html
@@ -74,8 +80,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
 %}
+
+{% include section.html %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 col4=col4 col5=col5 col6=col6%}
