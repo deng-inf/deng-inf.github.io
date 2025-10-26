@@ -1,14 +1,22 @@
 ---
 ---
 
-  <p>
-    At <strong>IFIS</strong>, we aim to <strong>XXX</strong>...
-  </p>
+<p> 
+  At <strong>IFIS</strong>, we aim to <strong>make machines reason and decide under profound uncertainty</strong>—not just to process data, but to understand the nature of <strong>belief, conflict, and ignorance</strong> embedded in the physical and abstract world. We explore the frontiers of <strong>information fusion</strong> and <strong>uncertainty quantification</strong>, blending classical <strong>Evidence Theory</strong> (Dempster-Shafer) with the mathematical elegance of <strong>Fuzzy Sets</strong>, <strong>Random Permutation Sets</strong>, and even <strong>Quantum Theory</strong>. 
+</p>
 
-  <h4>Our research spans:</h4>
-  <ul>
-    <li><strong>XXX</strong>: XXX</li>
-  </ul>
+<p> 
+  Our philosophy is <strong>holistic</strong>: we believe that intelligent systems must be as deeply rooted in <strong>fundamental theories of uncertainty</strong> as they are in <strong>real-world utility</strong>. We let <strong>applications inform theory</strong>, and <strong>theoretical rigor guide applications</strong>. This dual lens is what makes our work both principled and impactful. We are driven by curiosity and a commitment to <strong>open, rigorous, and transformative science</strong>. 
+</p>
+
+<h4>Our research spans:</h4> 
+<ul> 
+  <li><strong>Uncertainty Theory &amp; Information Fusion</strong>: Developing novel frameworks (Dempster-Shafer Theory, D-Numbers, Random Permutation Sets) and entropy measures (Belief Entropy, Deng Entropy) to model and fuse conflicting, uncertain, and incomplete information.</li> 
+  <li><strong>Quantum Information Processing</strong>: Exploring novel computational paradigms, including quantum circuits and quantum mass functions, to handle belief functions, model uncertainty, and accelerate information fusion.</li> 
+  <li><strong>Fuzzy Systems &amp; Time Series Analysis</strong>: Modeling complex dynamics and forecasting under vagueness, including the development of new models like Differential Convolutional Fuzzy Time Series.</li> 
+  <li><strong>Complex Network Analysis</strong>: Identifying influential nodes, assessing network vulnerability, and modeling information flow using evidential and entropy-based approaches.</li> 
+  <li><strong>Intelligent Decision &amp; Risk Analysis</strong>: Applying our theoretical models to high-stakes applications, including multi-criteria decision making (MCDM), fault diagnosis, clustering (Evidential C-Means), and risk assessment (FMEA).</li> 
+</ul>
 
 {% include section.html %}
 
